@@ -1,0 +1,2 @@
+# shool.repo
+practicing get
