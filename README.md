@@ -1,2 +1,6 @@
-# shool.repo
-practicing get
+# Hello header
+Hello Paragraph
+
+- list one
+- list two
+- list three
